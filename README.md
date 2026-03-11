@@ -1,11 +1,11 @@
 # computer_vision
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1opx1K_2ZDXE_vRpwU22YD4mR4jgnqoJe#scrollTo=F2gauaLMT9ml)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sahilmaniyar888/computer_vision/blob/main/Neural_Network_for_Images.ipynb)
 
 Primary tracked notebook: `Neural_Network_for_Images.ipynb`
 
 Use this workflow:
 - Open the notebook in Google Colab with the badge above.
-- Run and edit there as needed.
+- If you want a Drive copy, use `File -> Save a copy in Drive` inside Colab.
 - Keep the latest `.ipynb` in this repository so VS Code and GitHub stay in sync.
 - Commit and push the notebook from this repo to GitHub.
